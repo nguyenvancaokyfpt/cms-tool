@@ -9,4 +9,5 @@ Tool lấy đáp án với những bài thi ôn luyện trên cmsfpt
 # Cách sử dụng
 
 B1: Vào làm bài như bình thường
+
 B2: Với mỗi câu hỏi, Ấn phím X trên bàn phím thì đáp án sẽ hiện lên.
