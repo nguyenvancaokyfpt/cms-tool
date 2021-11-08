@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tool 10 điểm MAE101 - Practice Test 3
 // @namespace    nguyenvancaoky.me
-// @version      0.2
+// @version      1.0
 // @description  :)
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 // @author       Nguyễn Văn Cao Kỳ
