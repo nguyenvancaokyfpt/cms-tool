@@ -11,3 +11,9 @@ Tool lấy đáp án với những bài thi ôn luyện trên cmsfpt
 B1: Vào làm bài như bình thường
 
 B2: Với mỗi câu hỏi, Ấn phím X trên bàn phím thì đáp án sẽ hiện lên.
+
+# Cách thêm câu hỏi vào kho dữ liệu
+
+B1: Vào Review bài làm của mình để hiển thị tất cả các câu và đáp án, nếu trang chỉ hiển thị từng câu thì có thể ấn vào nút [Show all questions on one page] ở phía bên tay phải.
+
+B2: Ấn phím Z trên bàn phím, tool sẽ hiển thị số câu hỏi được thêm vào hệ thống, câu nào có rồi sẽ tự động bỏ qua.
