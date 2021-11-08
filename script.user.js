@@ -7,6 +7,8 @@
 // @author       Nguyễn Văn Cao Kỳ
 // @match        https://cmshn.fpt.edu.vn/*
 // @icon         https://animehay.site/themes/img/favicon.ico
+// @updateURL    https://github.com/nguyenvancaokyfpt/cmsfpt-tool/raw/main/script.user.js
+// @downloadURL  https://github.com/nguyenvancaokyfpt/cmsfpt-tool/raw/main/script.user.js
 // @license      MIT
 // ==/UserScript==
 
