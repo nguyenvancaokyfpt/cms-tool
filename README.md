@@ -1,5 +1,5 @@
 # cmsfpt-tool
-Tool lấy đáp án với những bài thi ôn luyện trên cmsfpt
+Tool lấy đáp án với những bài thi ôn luyện trên tất cả các trường cùng sử dụng hệ thống giống với cmshn.fpt.edu.vn
 
 B1: Cài đặt tiện ích này [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi)
 
