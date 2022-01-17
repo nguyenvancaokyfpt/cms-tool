@@ -15,6 +15,8 @@ B2: Với mỗi câu hỏi, Ấn phím X trên bàn phím thì đáp án sẽ hi
 
 # Cách thêm câu hỏi vào kho dữ liệu
 
+Các bạn càng thêm nhiều câu hỏi thì hệ thống sẽ ngày càng hỗ trợ nhiều câu (Hy sinh đời anh chị củng cố đàn em sinh viên sau này)
+
 B1: Vào Review bài làm của mình để hiển thị tất cả các câu và đáp án, nếu trang chỉ hiển thị từng câu thì có thể ấn vào nút [Show all questions on one page] ở phía bên tay phải.
 
 B2: Ấn phím Z trên bàn phím, tool sẽ hiển thị số câu hỏi được thêm vào hệ thống, câu nào có rồi sẽ tự động bỏ qua.
