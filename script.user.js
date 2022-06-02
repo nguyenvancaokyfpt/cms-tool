@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Tool CMSFPT
 // @namespace    nguyenvancaoky.me
-// @version      2.1.2
+// @version      2.1.3
 // @description  :)
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 // @author       Nguyễn Văn Cao Kỳ
 // @match        */mod/quiz/*
 // @match        */course/view.php?*
+// @include      http://*edu.vn*
+// @include      https://*edu.vn/*
 // @icon         https://animehay.club/themes/img/favicon.ico
 // @updateURL    https://github.com/nguyenvancaokyfpt/cmsfpt-tool/raw/main/script.user.js
 // @downloadURL  https://github.com/nguyenvancaokyfpt/cmsfpt-tool/raw/main/script.user.js
