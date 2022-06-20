@@ -3,7 +3,7 @@ Tool lấy đáp án với những bài thi ôn luyện trên tất cả các tr
 
 B1: Cài đặt tiện ích này [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi)
 
-B2: [Click vào dây](https://github.com/nguyenvancaokyfpt/cmsfpt-tool/raw/main/script.user.js) để cài đặt.
+B2: [Click vào dây](https://github.com/nguyenvancaokyfpt/cms-tool/blob/main/script.user.js) để cài đặt.
 
 ! Lưu ý tool này chỉ được tạo ra với mục đích lấy Full điểm của các bài tự luyện tập vì có thế điểm này sẽ được tính vào điểm thành phần. Tốt nhất các bạn vẫn nên tự luyện tập và ôn luyện trước khi sử dụng nó.
 
