@@ -10,8 +10,8 @@
 // @include      http://*edu.vn*
 // @include      https://*edu.vn/*
 // @icon         https://animehay.club/themes/img/favicon.ico
-// @updateURL    https://github.com/nguyenvancaokyfpt/cmsfpt-tool/raw/main/script.user.js
-// @downloadURL  https://github.com/nguyenvancaokyfpt/cmsfpt-tool/raw/main/script.user.js
+// @updateURL    https://github.com/nguyenvancaokyfpt/cms-tool/raw/main/script.user.js
+// @downloadURL  https://github.com/nguyenvancaokyfpt/cms-tool/raw/main/script.user.js
 // @license      MIT
 // ==/UserScript==
 
