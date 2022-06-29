@@ -3,7 +3,7 @@ Tool lấy đáp án với những bài thi ôn luyện trên tất cả các tr
 
 B1: Cài đặt tiện ích này [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi)
 
-B2: [Click vào dây](https://github.com/nguyenvancaokyfpt/cms-tool/blob/main/script.user.js) để cài đặt.
+B2: [Click vào dây](https://github.com/nguyenvancaokyfpt/cms-tool/raw/main/script.user.js) để cài đặt.
 
 B3: Liên hệ admin để được cấp key sử dụng (free!!!)  [Facebook](https://www.facebook.com/NguyenVanCaoKy/)
 
