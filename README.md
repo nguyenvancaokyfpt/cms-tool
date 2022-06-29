@@ -15,6 +15,8 @@ B1: Vào làm bài như bình thường
 
 B2: Với mỗi câu hỏi, Ấn phím X trên bàn phím thì đáp án sẽ hiện lên.
 
+Phím C để ẩn hiện menu
+
 # Cách thêm câu hỏi vào kho dữ liệu
 
 Các bạn càng thêm nhiều câu hỏi thì hệ thống sẽ ngày càng hỗ trợ nhiều câu (Hy sinh đời anh chị củng cố đàn em sinh viên sau này)
