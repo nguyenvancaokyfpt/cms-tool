@@ -5,7 +5,7 @@ B1: Cài đặt tiện ích này [Tampermonkey](https://chrome.google.com/websto
 
 B2: [Click vào dây](https://github.com/nguyenvancaokyfpt/cms-tool/raw/main/script.user.js) để cài đặt.
 
-B3: Key sử dụng [ ef92e5d882e936c828c81eb75047cd77 ]
+B3: Key sử dụng **[ ef92e5d882e936c828c81eb75047cd77 ]**
 
 ! Lưu ý tool này chỉ được tạo ra với mục đích lấy Full điểm của các bài tự luyện tập vì có thế điểm này sẽ được tính vào điểm thành phần. Tốt nhất các bạn vẫn nên tự luyện tập và ôn luyện trước khi sử dụng nó.
 
